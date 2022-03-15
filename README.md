@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/Tb1B-rS52uo)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](......)
 
 
 ## Instagram  Follow ❤️
@@ -34,29 +34,16 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkwizard13/nezuko)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/QUEEN-ANGELA-NEW-QR?v=1)
   
 ### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Amalser.js
+```
 ```
       
-```js
-SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
-$ npm i
-$ node Amalser.js
+```
 ```
 
 ----
