@@ -1,9 +1,9 @@
-/* Codded by @phaticusthiccy
-Telegram: t.me/phaticusthiccy
+/* Codded by @Philomath_zw 
+Telegram: t.me/billie_wrld
 Instagram: www.instagram.com/kyrie.baran
 
 Special Thanks:
-@Unique_hunter for Helps
+@Unique_hunter for Helpsd
 */
 
 const Asena = require('../events');
